@@ -1,5 +1,4 @@
-> - 1 Iteration = 2 weeks  
-> - Iteration starts Monday and ends Sunday.
+# Shop Keeper Project Plan
 
 ### Server
 - Login / Logout : 2 Iteration
@@ -18,3 +17,8 @@
 
 ### Installer : 
 - Complete : 2 Iterations
+
+
+> - 1 Iteration = 2 weeks  
+> - Iteration starts Monday and ends Sunday.
+> - Total Duration : 16 Iterations = 32 Weeks
