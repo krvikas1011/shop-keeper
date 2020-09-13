@@ -1,4 +1,4 @@
-package com.akv.opensource.shopkeeper;
+package com.akv.shopkeeper;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
